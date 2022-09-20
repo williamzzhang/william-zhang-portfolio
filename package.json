@@ -1,7 +1,8 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "williamzhang.dev",
+  "private": true,
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "William's Personal Portfolio",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
@@ -17,13 +18,13 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
-  "license": "0BSD",
+  "author": "William Zhang <william.zhang609@gmail.com>",
+  "license": "MIT",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
   "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+    "url": "https://github.com/williamzzhang/william-zhang-portfolio"
   },
   "bugs": {
     "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
