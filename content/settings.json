@@ -3,8 +3,8 @@
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "William Zhang's Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
-    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "titleTemplate": "William Zhang's Portfolio",
+    "description": "William Zhang's Portfolio",
     "author": "William Zhang",
     "avatar": "../content/images/gatsby.png",
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
@@ -20,10 +20,11 @@
     "logo": { "text": "williamzhang.dev" },
     "navigation": {
       "header": [
+        { "label": "", "url": "" },
         { "label": "About", "url": "/#About" },
-        { "label": "Experiences", "url": "/#Experiences" },
+        { "label": "Experiences", "url": "/Experiences" },
         { "label": "Projects", "url": "/#Projects" },
-        { "label": "Contact Me", "url": "/#Contact Me" }
+        { "label": "Contact", "url": "/#Contact" }
       ],
       "ctaButton": {
         "openNewTab": true,

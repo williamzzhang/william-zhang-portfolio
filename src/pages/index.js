@@ -7,7 +7,6 @@ import {
   Page,
   ProjectsSection,
   Section,
-  Animation,
   Seo,
 } from "gatsby-theme-portfolio-minimal";
 
@@ -16,19 +15,15 @@ export default function IndexPage() {
     <>
       <Seo title="Gatsby Starter for Portfolio Minimal" />
       <Page useSplashScreenAnimation>
-          <HeroSection sectionId="Me" />
-        <Animation type="fadeUp">
-          <AboutSection sectionId="About" heading="About Portfolio Minimal" />
-        </Animation>
-        <Animation type="fadeUp">
-                <Section heading="Experiences">
-                    <p>You can add your custom JSX here.</p>
-                    </Section>
-            </Animation>
+        <HeroSection sectionId="Me" />
+        <AboutSection sectionId="About" heading="About Me" />
+        <Section sectionId="Experiences" heading="Experiences">
+        <p>You can add your custom JSX here.</p>
+        </Section>
         <InterestsSection sectionId="Skills" heading="Skills" />
         <InterestsSection sectionId="Interests" heading="Interests" />
         <ProjectsSection sectionId="Projects" heading="Projects" />
-        <ContactSection sectionId="Contact Me" heading="Contact Me" />
+        <ContactSection sectionId="Contact" heading="Contact" />
       </Page>
     </>
   );

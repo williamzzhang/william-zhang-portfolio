@@ -1,14 +1,9 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/botanical keyboard.PNG"
+imageAlt: "Portfolio Colour Inspiration"
 ---
+Hey There! My name is William and I am a 4th Year student at the University of British Columbia studying Computer Science and Business. My current interests are application development, consumer electronics, tech consulting and keyboard building. 
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+I'm always keen to learn new things and try new experiences and I think tech is the perfect space for that. I've always loved tech due to the innovation and change it has sparked in the world. As a result, I strive to create to work in tech to contribute to the change I want to see.
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
-
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
-
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Custom keyboard that inspired the color scheme for this website. <a href="https://oblotzky.industries/products/gmk-botanical-2" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>GMK Botanical</u></a>

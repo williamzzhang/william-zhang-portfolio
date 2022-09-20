@@ -14,13 +14,9 @@
     "highlight": "",
     "suffix": "💻"
   },
-  "logo": {
-    "src": "../../images/Deloitte_logo.png",
-    "alt": "Waving Hand Emoji"
-  },
   "description": "Avid oil painter and minimalism enthusiast across all aspects of life.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail", "Medium"],
-    "showIcons": false
+    "showIcons": true
   }
 }
