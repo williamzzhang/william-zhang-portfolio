@@ -22,8 +22,8 @@
       "header": [
         { "label": "", "url": "" },
         { "label": "About", "url": "/#About" },
-        { "label": "Experiences", "url": "/Experiences" },
-        { "label": "Projects", "url": "/#Projects" },
+        { "label": "Experiences", "url": "/experiences" },
+        { "label": "Projects", "url": "/allprojects/#AllProjects" },
         { "label": "Contact", "url": "/#Contact" }
       ],
       "ctaButton": {
@@ -33,7 +33,7 @@
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "License", "url": "/imprint" }
       ]
     },
     "featureToggles": {
