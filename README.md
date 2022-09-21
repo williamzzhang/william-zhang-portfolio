@@ -4,6 +4,7 @@ My personal portfolio created using Gatsby!
 ## Requirements
 * Node.js
 * Gatsby
+
 How to Run Locally
 First install all dependencies.
 ```bash
