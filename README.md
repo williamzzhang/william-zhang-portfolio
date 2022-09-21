@@ -6,6 +6,7 @@ My personal portfolio created using Gatsby!
 * Gatsby
 
 How to Run Locally
+
 First install all dependencies.
 ```bash
 npm install
