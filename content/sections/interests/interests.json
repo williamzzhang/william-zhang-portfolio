@@ -1,86 +1,86 @@
 {
   "interests": [
     {
-      "label": "Quick and Easy Setup",
+      "label": "Java",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/java.png",
         "alt": ""
       }
     },
     {
-      "label": "Content via Markdown",
+      "label": "Kotlin",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/kotlin.png",
         "alt": ""
       }
     },
     {
-      "label": "Responsive Design",
+      "label": "JavaScript",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/javascript.png",
         "alt": ""
       }
     },
     {
-      "label": "Medium Integration",
+      "label": "Firebase",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/firebase.png",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Figma",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/figma.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "SQL",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/sql.png",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Painting",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/paintbrush.jpg",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Gaming",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/riot.jpg",
         "alt": ""
       }
     },
     {
-      "label": "Animations",
+      "label": "Fitness",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/dumbell.png",
         "alt": ""
       }
     },
     {
-      "label": "PWA (Offline Support)",
+      "label": "Keyboards",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/keyboard.jpg",
         "alt": ""
       }
     },
     {
-      "label": "Modern Tech-Stack",
+      "label": "Basketball",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/raptors.png",
         "alt": ""
       }
     },
     {
-      "label": "Blazing Fast",
+      "label": "Kdramas",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/kdrama.jpg",
         "alt": ""
       }
     }
