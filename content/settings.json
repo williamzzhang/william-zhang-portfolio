@@ -29,7 +29,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/Resume_William_Zhang.pdf"
+        "url": "/William_Zhang_Resume.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
