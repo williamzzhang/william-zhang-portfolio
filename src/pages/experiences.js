@@ -55,7 +55,7 @@ export default function Experiences() {
                         />                        
             <h1 style={{paddingTop: 40}}>Extracurricular Involvements</h1>
             <Experience position="Blueprint Conference Director" company="UBC BizTech"
-                        location= "Vancouver, BC" startDate="May 2022" endDate= "Sep 2022"
+                        location= "Vancouver, BC" startDate="May 2021" endDate= "May 2022"
                         bullet1= "Spearheaded BizTech's flagship conference with over 200 students and professional delegates in attendance winning Conference of the Year at the CUS Awards Night" 
                         bullet2= "Delegated tasks and worked with BizTech team of over 30 people to organize and delivered a keynote speaker, panel discussion, and 9 unique workshops over the two day conference " 
                         bullet3= "Pitched conference idea to raise over $5,000 worth of funding from various sponsor companies and grant organizations"
