@@ -1,4 +1,4 @@
-# williamzhang/.dev
+# https://williamzhang.dev/
 My personal portfolio created using Gatsby!
 
 ## Requirements
