@@ -10,11 +10,11 @@
   },
   "title": "I'm William Zhang",
   "subtitle": {
-    "prefix": "4th Year @ UBC CS + Business",
+    "prefix": "5th Year @ UBC CS + Business",
     "highlight": "",
     "suffix": "💻"
   },
-  "description": "Avid oil painter and tech enthusiast across all aspects of life.",
+  "description": "Tech enthusiast across all aspects of life.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail", "Medium"],
     "showIcons": true
